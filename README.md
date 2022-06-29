@@ -31,8 +31,6 @@
 <br>
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Shivu1414&show_icons=true&locale=en&theme=onedark" alt="Shivu1414" /></p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivu1414&" alt="shivu1414" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivu1414&theme=tokyonight" alt="Shivu1414" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivu1414&theme=juicyfresh" alt="Shivu1414" /></a> </p>
 
