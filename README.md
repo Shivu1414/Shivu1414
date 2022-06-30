@@ -18,6 +18,8 @@
 <a href="https://twitter.com/I_am_ShivamB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_shivamb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivam-baranwal-642336225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-baranwal-642336225" height="30" width="40" /></a>
 <a href="https://instagram.com/shivu_1414_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivu_1414_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shivu1414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivu1414" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shivu_1414_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivu_1414_" height="30" width="40" /></a> 
 <a href="https://www.codechef.com/users/recb_0525" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="recb_0525" height="30" width="40" /></a>
 </p>
 
