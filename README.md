@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **PHP, Asp.Net, JAVA**
 - 💬 Ask me about **C / Java programming
 - ⚡ My primary coding language: **C**
-- 😄 Ask me about anything, I'll be happy to help.
+- 🙂 Ask me about anything, I'll be happy to help.
 - 📫 How to reach me **shivambaranwal0404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
