@@ -13,8 +13,8 @@
 
 - 🔭 Passionate for learning & exploring new Tech.
 - 🌱 I’m currently learning **Full Stack Data Science, JAVA**
-- 💬 Ask me about **C / Python programming
-- ⚡ My primary coding language: **C**
+- 💬 Ask me about **C / Python programming**
+- ⚡ My primary coding language: **C Language**
 - 🙂 Ask me about anything, I'll be happy to help.
 - 📫 How to reach me **shivambaranwal0404@gmail.com**
 
