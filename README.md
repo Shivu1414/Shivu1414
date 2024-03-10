@@ -13,9 +13,10 @@
 <img align="right" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" align="center" alt="Coder GIF" width="480" height="260">
 
 - 🔭 Passionate for learning & exploring new Tech.
-- 🌱 I’m currently learning **Data Science, Full Stack Web Development**
-- 💬 Ask me about **JAVA / Python programming**
+- 🌱 I’m currently learning **Full Stack Web Development**
+- 💬 Ask me about **JAVA / Python / Data Analytics**
 - ⚡ My primary coding language: **JAVA Language**
+- ⚡ Expertise in **PHP and JavaScript Language**
 - 🙂 Ask me about anything, I'll be happy to help.
 - 📫 How to reach me **shivambaranwal0404@gmail.com**
 
