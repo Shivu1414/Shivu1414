@@ -1,4 +1,6 @@
-<h1 align="center">Hi:wave:I'm <a href="http://ardourdiaries.herokuapp.com/">𝗦𝗵𝗶𝘃𝗮𝗺 𝗕𝗮𝗿𝗮𝗻𝘄𝗮𝗹</a></h1>
+<h1 align="center">Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm <a href="http://ardourdiaries.herokuapp.com/">𝗦𝗵𝗶𝘃𝗮𝗺 𝗕𝗮𝗿𝗮𝗻𝘄𝗮𝗹</a></h1>
 
 <h3 align="center">Engineering Student & Passionate Web Developer</h3>
 <p align="center"><img alt="banner" src="https://pbs.twimg.com/profile_banners/1355523717116219393/1656656306/1080x360" /></p> 
