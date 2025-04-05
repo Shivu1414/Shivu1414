@@ -16,11 +16,11 @@
 
 - 🔭 Passionate for learning & exploring new Tech.
 - 🌱 I’m currently learning **Full Stack Web Development**
-- 💬 Ask me about **JAVA / Python / Data Analytics**
+- 💬 Ask me about **React | PHP | Node | Pattern**
 - ⚡ My primary coding language: **JAVA Language**
 - ⚡ Expertise in **PHP and JavaScript Language**
 - 🙂 Ask me about anything, I'll be happy to help.
-- 📫 How to reach me **shivambaranwal0404@gmail.com**
+- 📫 How to reach me **shivambaranwal1414@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
