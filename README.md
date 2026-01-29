@@ -16,7 +16,7 @@
 
 - 🔭 Passionate for learning & exploring new Tech.
 - 🌱 I’m currently learning **Full Stack Web Development**
-- 💬 Ask me about **React | PHP | Node | Pattern**
+- 💬 Ask me about **React | PHP | JAVA | Symfony | Pattern**
 - ⚡ My primary coding language: **JAVA Language**
 - ⚡ Expertise in **PHP and JavaScript Language**
 - 🙂 Ask me about anything, I'll be happy to help.
