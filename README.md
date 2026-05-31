@@ -3,7 +3,7 @@
   I'm <a href="http://ardourdiaries.herokuapp.com/">𝗦𝗵𝗶𝘃𝗮𝗺 𝗕𝗮𝗿𝗮𝗻𝘄𝗮𝗹</a></h1>
 
 <h3 align="center">Engineering Student & Passionate Web Developer</h3>
-<p align="center"><img alt="banner" src="https://drive.google.com/file/d/1GWtulmP33h2a_FpWNiRKvDPptRdqG2m6/view?pli=1" /></p> 
+<p align="center"><img alt="banner" src="https://drive.google.com/uc?export=view&id=1GWtulmP33h2a_FpWNiRKvDPptRdqG2m6" /></p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivu1414&label=Profile%20views&color=0e75b6&style=flat" alt="shivu1414" /> </p>
 
 
