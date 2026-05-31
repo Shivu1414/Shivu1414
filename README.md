@@ -58,13 +58,9 @@
 <br>
 <br>
 <br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivu1414&layout=compact&hide=html&theme=radical" alt="Shivu1414" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivu1414&theme=dark&hide_langs_below=1" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivu1414&show_icons=true&theme=radical" alt="Shivu1414" />
-</p>
-</p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivu1414&theme=tokyonight" alt="Shivu1414" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivu1414&theme=juicyfresh" alt="Shivu1414" /></a> </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivu1414&theme=tokyonight" width="70%" />
+</p>
 
